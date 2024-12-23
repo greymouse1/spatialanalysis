@@ -47,7 +47,7 @@ pip install geopandas matplotlib powerlaw shapely osmnx
 
 ![Example Plot](figure_0.png)
 ![Example Plot](histogram_0.png)
-![Example Plot](power_0.png)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
