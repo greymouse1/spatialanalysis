@@ -38,23 +38,16 @@ pip install geopandas matplotlib powerlaw shapely osmnx
    - Fitting a power-law distribution to the calculated degree values.
    - Saving the resulting plots to the specified folder.
 
-   Example:
-
-   ```python
-   # Save the plot
-   output_path_power = os.path.join(folderPath, f"power_{cityName}.png")
-   plt.savefig(output_path_power, dpi=600, bbox_inches="tight")
-   ```
-
 3. **Output**
    - Processed GeoDataFrame with valid geometries and connection counts.
    - Power-law fit parameters (`alpha`, `xmin`) and comparison metrics.
-   - Saved plot of the empirical data and the fitted model.
+   - Shape file for natural streets, png of the streets, pnf of the histogram, png of the power law fit
 
 ## Example Plot
 
-![Example Plot](example_plot.png)
-
+![Example Plot](figure_0.png)
+![Example Plot](histogram_0.png)
+![Example Plot](power_0.png)
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
