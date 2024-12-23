@@ -59,7 +59,9 @@ Feel free to submit issues or pull requests if you find bugs or want to add new 
 ## Credits
 
 Tutorial from Momepy package website at http://docs.momepy.org/en/stable/user_guide/graph/coins.html based on paper by Tripathy et al. (2020)
+
 OpenAI. (2024). ChatGPT (version 4) [Large language model]. OpenAI. https://openai.com/chatgpt
+
 Tripathy, P., Rao, P., Balakrishnan, K., & Malladi, T. (2020). An open-source tool to extract natural continuity and hierarchy of urban street networks. Environment and Planning B: Urban Analytics and City Science. http://dx.doi.org/10.1177/2399808320967680
 
 ---
