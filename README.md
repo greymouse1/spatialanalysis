@@ -65,7 +65,7 @@ p-value for comparison: 1.59652417146201e-14
 
 ## Example Plot
 
-![Example Plot](figure_0.png)
+![Example Plot](figure_Yogyakarta.png)
 ![Example Plot](histogram_0.png)
 ![Example Plot](power_Yogyakarta.png)
 
