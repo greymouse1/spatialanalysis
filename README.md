@@ -86,5 +86,6 @@ OpenAI. (2024). ChatGPT (version 4) [Large language model]. OpenAI. https://open
 Tripathy, P., Rao, P., Balakrishnan, K., & Malladi, T. (2020). An open-source tool to extract natural continuity and hierarchy of urban street networks. Environment and Planning B: Urban Analytics and City Science. http://dx.doi.org/10.1177/2399808320967680
 
 Guo, Z. (n.d.). Tutorial for generating natural streets and analyzing their scaling structure. Faculty of Engineering and Sustainable Development, Division of GIScience, University of Gävle. Retrieved from https://livablecitylab.hkust-gz.edu.cn/binjiang/Axwoman/TutorialNaturalStreets14.pdf
+
 ---
 
