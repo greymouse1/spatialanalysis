@@ -43,6 +43,26 @@ pip install geopandas matplotlib powerlaw shapely osmnx
    - Power-law fit parameters (`alpha`, `xmin`) and comparison metrics.
    - Shape file for natural streets, png of the streets, pnf of the histogram, png of the power law fit
 
+## Statistical report example
+
+```
+HeadTailBreaks Classification
+================================
+Class Intervals:
+3.32, 7.46, 14.24, 26.18, 44.22, 72.92, 102.81, 137.50, 175.00, 193.00, 209.00
+
+Counts in Each Class:
+35526, 9207, 2494, 634, 192, 45, 16, 7, 1, 1, 1
+
+Statistical indicators for power law:
+
+Alpha: 3.309509932226023
+xmin: 11.0
+p-value: 0.02965726847632788
+Log-likelihood ratio (R): 235.27082552021437
+p-value for comparison: 1.59652417146201e-14
+```
+
 ## Example Plot
 
 ![Example Plot](figure_0.png)
