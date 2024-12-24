@@ -47,6 +47,7 @@ pip install geopandas matplotlib powerlaw shapely osmnx
 
 ![Example Plot](figure_0.png)
 ![Example Plot](histogram_0.png)
+![Example Plot](power_Yogyakarta.png)
 
 ## License
 
